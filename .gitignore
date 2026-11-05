@@ -2,3 +2,5 @@
 01_referencias/
 # Quadros exportados: regeneráveis com export_sprite_sheet
 04_personagens/*/04_exports/quadros/
+# Comparações com recorte da referência: uso interno
+04_personagens/*/05_revisao/**/comparacao_*.png
