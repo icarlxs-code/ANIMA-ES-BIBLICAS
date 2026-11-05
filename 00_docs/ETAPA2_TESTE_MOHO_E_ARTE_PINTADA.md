@@ -60,3 +60,22 @@ neutral, smiling, sad, frightened, talking*. Bocas: *mouth shapes for lip sync: 
 3. O rosto é o mesmo entre as vistas e as expressões.
 4. Mãos com cinco dedos, pés e sandálias corretos.
 5. Resolução: o briefing pede 3000 px de altura. Os geradores costumam entregar menos. Para 1080p, ~2000 px de corpo inteiro bastam.
+
+## 4. Tentativa: pintura procedural feita pela IA (pedido do usuário: "você pinta")
+- Script: `tools/pintura/pintar_cabeca_frontal.py` (numpy, OpenCV, shapely; tudo já instalado no PC).
+  Volume calculado pela máscara, terminador firme com transição pintada, luz de borda, contorno no tom do material,
+  textura de pincel e cachos com luz e fenda.
+- Versões: `04_personagens/pastor_jovem/00_design/pintura/cabeca_frontal_v001..v004.png` (1600 × 1840 px). A melhor é a v004.
+- Comparação com a referência: `05_revisao/comparacao_pintura_v004.png` (só no PC, não versionada).
+
+| Critério | v004 | Situação |
+| --- | --- | --- |
+| Luz da esquerda, sombra em bloco, luz de borda | presente | ok |
+| Volume pintado e textura | presente, mais fraco que na referência | parcial |
+| Cachos, cordão, colete de pele (ficha) | legíveis | ok |
+| Construção do rosto (maçãs, mandíbula, queixo) | parece uma máscara simétrica; ponta do nariz como uma bola | **falha** |
+| Silhueta do cabelo | forma de capacete | **falha** |
+| Pescoço e ombros | pescoço comprido e grosso na base; gola rígida | **falha** |
+| Expressividade e apelo | baixos | **falha** |
+
+Conclusão: melhor que o vetor, mas **ainda não alcança** a referência. Pelo combinado, não insistir.
