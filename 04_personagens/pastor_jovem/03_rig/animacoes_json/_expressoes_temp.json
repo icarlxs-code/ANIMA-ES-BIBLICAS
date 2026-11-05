@@ -1,0 +1,300 @@
+[
+ {
+  "op": "add_animation",
+  "name": "_pose_alegre"
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_alegre",
+  "bone": "brow_l",
+  "channel": "translate",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": 3,
+  "y": 0
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_alegre",
+  "bone": "brow_r",
+  "channel": "translate",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": 3,
+  "y": 0
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_alegre",
+  "bone": "eye_l",
+  "channel": "scale",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": 1,
+  "y": 0.8
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_alegre",
+  "bone": "eye_r",
+  "channel": "scale",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": 1,
+  "y": 0.8
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_alegre",
+  "bone": "head",
+  "channel": "rotate",
+  "time": 0,
+  "curve": "easeInOut",
+  "value": 2
+ },
+ {
+  "op": "set_attachment_key",
+  "animation": "_pose_alegre",
+  "slot": "mouth",
+  "time": 0,
+  "attachment": "mouth_E"
+ },
+ {
+  "op": "add_animation",
+  "name": "_pose_triste"
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_triste",
+  "bone": "brow_l",
+  "channel": "rotate",
+  "time": 0,
+  "curve": "easeInOut",
+  "value": -10
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_triste",
+  "bone": "brow_r",
+  "channel": "rotate",
+  "time": 0,
+  "curve": "easeInOut",
+  "value": 10
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_triste",
+  "bone": "brow_l",
+  "channel": "translate",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": -1,
+  "y": 0
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_triste",
+  "bone": "brow_r",
+  "channel": "translate",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": -1,
+  "y": 0
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_triste",
+  "bone": "eye_l",
+  "channel": "scale",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": 1,
+  "y": 0.88
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_triste",
+  "bone": "eye_r",
+  "channel": "scale",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": 1,
+  "y": 0.88
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_triste",
+  "bone": "pupil_l",
+  "channel": "translate",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": 0,
+  "y": -2
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_triste",
+  "bone": "pupil_r",
+  "channel": "translate",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": 0,
+  "y": -2
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_triste",
+  "bone": "head",
+  "channel": "rotate",
+  "time": 0,
+  "curve": "easeInOut",
+  "value": -3
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_triste",
+  "bone": "head",
+  "channel": "translate",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": -4,
+  "y": 0
+ },
+ {
+  "op": "set_attachment_key",
+  "animation": "_pose_triste",
+  "slot": "mouth",
+  "time": 0,
+  "attachment": "mouth_rest"
+ },
+ {
+  "op": "add_animation",
+  "name": "_pose_preocupado"
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_preocupado",
+  "bone": "brow_l",
+  "channel": "rotate",
+  "time": 0,
+  "curve": "easeInOut",
+  "value": -12
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_preocupado",
+  "bone": "brow_r",
+  "channel": "rotate",
+  "time": 0,
+  "curve": "easeInOut",
+  "value": 12
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_preocupado",
+  "bone": "brow_l",
+  "channel": "translate",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": 3,
+  "y": 0
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_preocupado",
+  "bone": "brow_r",
+  "channel": "translate",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": 3,
+  "y": 0
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_preocupado",
+  "bone": "pupil_l",
+  "channel": "translate",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": -2.5,
+  "y": 0
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_preocupado",
+  "bone": "pupil_r",
+  "channel": "translate",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": -2.5,
+  "y": 0
+ },
+ {
+  "op": "set_attachment_key",
+  "animation": "_pose_preocupado",
+  "slot": "mouth",
+  "time": 0,
+  "attachment": "mouth_MBP"
+ },
+ {
+  "op": "add_animation",
+  "name": "_pose_surpreso"
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_surpreso",
+  "bone": "brow_l",
+  "channel": "translate",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": 8,
+  "y": 0
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_surpreso",
+  "bone": "brow_r",
+  "channel": "translate",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": 8,
+  "y": 0
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_surpreso",
+  "bone": "eye_l",
+  "channel": "scale",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": 1.08,
+  "y": 1.22
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_surpreso",
+  "bone": "eye_r",
+  "channel": "scale",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": 1.08,
+  "y": 1.22
+ },
+ {
+  "op": "set_bone_key",
+  "animation": "_pose_surpreso",
+  "bone": "head",
+  "channel": "translate",
+  "time": 0,
+  "curve": "easeInOut",
+  "x": 3,
+  "y": 0
+ },
+ {
+  "op": "set_attachment_key",
+  "animation": "_pose_surpreso",
+  "slot": "mouth",
+  "time": 0,
+  "attachment": "mouth_O"
+ }
+]

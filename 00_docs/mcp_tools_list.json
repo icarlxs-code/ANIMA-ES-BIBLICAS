@@ -1,0 +1,544 @@
+{
+  "server": {
+    "name": "rigby2d",
+    "title": "Rigby2D",
+    "version": "0.4.3"
+  },
+  "protocol": "2025-06-18",
+  "tools": [
+    {
+      "name": "inspect_project",
+      "readOnly": true,
+      "params": [
+        "path"
+      ]
+    },
+    {
+      "name": "describe_rig",
+      "readOnly": true,
+      "params": [
+        "path"
+      ]
+    },
+    {
+      "name": "describe_animation",
+      "readOnly": true,
+      "params": [
+        "path",
+        "animation"
+      ]
+    },
+    {
+      "name": "sample_pose",
+      "readOnly": true,
+      "params": [
+        "path",
+        "animation",
+        "time",
+        "skin"
+      ]
+    },
+    {
+      "name": "validate_project",
+      "readOnly": true,
+      "params": [
+        "path"
+      ]
+    },
+    {
+      "name": "convert_project",
+      "readOnly": false,
+      "params": [
+        "input",
+        "output",
+        "version",
+        "overwrite"
+      ]
+    },
+    {
+      "name": "export_sprite_sheet",
+      "readOnly": false,
+      "params": [
+        "input",
+        "output_folder",
+        "name",
+        "format",
+        "animations",
+        "fps",
+        "scale",
+        "layout",
+        "padding",
+        "trim",
+        "dedupe",
+        "loop",
+        "max_width",
+        "power_of_two",
+        "skin",
+        "defold_folder",
+        "overwrite"
+      ]
+    },
+    {
+      "name": "add_bone",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "name",
+        "parent",
+        "x",
+        "y",
+        "rotation",
+        "length"
+      ]
+    },
+    {
+      "name": "set_bone_setup",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "bone",
+        "x",
+        "y",
+        "rotation",
+        "scaleX",
+        "scaleY",
+        "shearX",
+        "shearY",
+        "length"
+      ]
+    },
+    {
+      "name": "add_animation",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "name",
+        "duration"
+      ]
+    },
+    {
+      "name": "set_bone_key",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "animation",
+        "bone",
+        "channel",
+        "time",
+        "value",
+        "x",
+        "y",
+        "curve"
+      ]
+    },
+    {
+      "name": "delete_bone_key",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "animation",
+        "bone",
+        "channel",
+        "time"
+      ]
+    },
+    {
+      "name": "set_attachment_key",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "animation",
+        "slot",
+        "time",
+        "attachment",
+        "hide"
+      ]
+    },
+    {
+      "name": "set_event_key",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "animation",
+        "event",
+        "time",
+        "int",
+        "float",
+        "string"
+      ]
+    },
+    {
+      "name": "batch_edit",
+      "readOnly": false,
+      "params": [
+        "path",
+        "operations",
+        "output",
+        "overwrite"
+      ]
+    },
+    {
+      "name": "set_workspace",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "workspace"
+      ]
+    },
+    {
+      "name": "set_output",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "fps",
+        "width",
+        "height",
+        "background",
+        "framing",
+        "frame_x",
+        "frame_y",
+        "frame_scale"
+      ]
+    },
+    {
+      "name": "save_pose",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "name",
+        "bones",
+        "animation",
+        "time",
+        "frame",
+        "replace"
+      ]
+    },
+    {
+      "name": "apply_pose",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "pose",
+        "amount",
+        "animation",
+        "time",
+        "frame"
+      ]
+    },
+    {
+      "name": "delete_pose",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "name"
+      ]
+    },
+    {
+      "name": "add_face_control",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "name",
+        "to",
+        "from"
+      ]
+    },
+    {
+      "name": "set_face_control",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "control",
+        "value",
+        "animation",
+        "time",
+        "frame"
+      ]
+    },
+    {
+      "name": "delete_face_control",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "name"
+      ]
+    },
+    {
+      "name": "add_audio_track",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "audio_file",
+        "animation",
+        "offset",
+        "volume",
+        "replace"
+      ]
+    },
+    {
+      "name": "set_audio_track",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "sound",
+        "animation",
+        "offset",
+        "volume"
+      ]
+    },
+    {
+      "name": "remove_audio_track",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "sound",
+        "animation"
+      ]
+    },
+    {
+      "name": "lip_sync",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "animation",
+        "sound",
+        "text",
+        "timing_file",
+        "slot",
+        "mouths",
+        "lead",
+        "min_hold",
+        "control"
+      ]
+    },
+    {
+      "name": "rename_bone",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "bone",
+        "name"
+      ]
+    },
+    {
+      "name": "rename_animation",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "animation",
+        "name"
+      ]
+    },
+    {
+      "name": "delete_animation",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "animation"
+      ]
+    },
+    {
+      "name": "set_slot",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "slot",
+        "attachment",
+        "hide",
+        "color"
+      ]
+    },
+    {
+      "name": "detect_parts",
+      "readOnly": true,
+      "params": [
+        "path",
+        "psd_file",
+        "roles",
+        "sides"
+      ]
+    },
+    {
+      "name": "autorig",
+      "readOnly": false,
+      "params": [
+        "path",
+        "psd_file",
+        "meshes",
+        "ik",
+        "roles",
+        "sides",
+        "output",
+        "overwrite"
+      ]
+    },
+    {
+      "name": "map_bones",
+      "readOnly": true,
+      "params": [
+        "source",
+        "path",
+        "mapping"
+      ]
+    },
+    {
+      "name": "retarget_animation",
+      "readOnly": false,
+      "params": [
+        "source",
+        "path",
+        "animation",
+        "animations",
+        "name",
+        "mode",
+        "scale",
+        "mapping",
+        "replace",
+        "output",
+        "overwrite"
+      ]
+    },
+    {
+      "name": "add_actor",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "character",
+        "name",
+        "x",
+        "y",
+        "scale",
+        "flip",
+        "shot",
+        "animation",
+        "start",
+        "in",
+        "out",
+        "speed",
+        "loops",
+        "blend"
+      ]
+    },
+    {
+      "name": "add_clip",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "actor",
+        "shot",
+        "animation",
+        "start",
+        "in",
+        "out",
+        "speed",
+        "loops",
+        "blend"
+      ]
+    },
+    {
+      "name": "remove_clip",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "actor",
+        "shot",
+        "start"
+      ]
+    },
+    {
+      "name": "set_actor",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "actor",
+        "x",
+        "y",
+        "scale",
+        "flip",
+        "skin",
+        "rename"
+      ]
+    },
+    {
+      "name": "set_layer_depth",
+      "readOnly": false,
+      "params": [
+        "path",
+        "output",
+        "overwrite",
+        "bone",
+        "depth",
+        "focal"
+      ]
+    },
+    {
+      "name": "run_script",
+      "readOnly": false,
+      "params": [
+        "path",
+        "script",
+        "script_file",
+        "animation",
+        "time",
+        "selection",
+        "dry_run",
+        "output",
+        "overwrite"
+      ]
+    }
+  ]
+}

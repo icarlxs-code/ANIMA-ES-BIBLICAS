@@ -1,0 +1,201 @@
+{
+ "width": 1000,
+ "height": 1700,
+ "layers": [
+  {
+   "name": "hair_back",
+   "svg": "00_hair_back.svg",
+   "visible": true
+  },
+  {
+   "name": "thigh_r",
+   "svg": "01_thigh_r.svg",
+   "visible": true
+  },
+  {
+   "name": "thigh_l",
+   "svg": "02_thigh_l.svg",
+   "visible": true
+  },
+  {
+   "name": "shin_r",
+   "svg": "03_shin_r.svg",
+   "visible": true
+  },
+  {
+   "name": "shin_l",
+   "svg": "04_shin_l.svg",
+   "visible": true
+  },
+  {
+   "name": "foot_r",
+   "svg": "05_foot_r.svg",
+   "visible": true
+  },
+  {
+   "name": "foot_l",
+   "svg": "06_foot_l.svg",
+   "visible": true
+  },
+  {
+   "name": "skirt",
+   "svg": "07_skirt.svg",
+   "visible": true
+  },
+  {
+   "name": "neck",
+   "svg": "08_neck.svg",
+   "visible": true
+  },
+  {
+   "name": "torso",
+   "svg": "09_torso.svg",
+   "visible": true
+  },
+  {
+   "name": "belt",
+   "svg": "10_belt.svg",
+   "visible": true
+  },
+  {
+   "name": "scarf",
+   "svg": "11_scarf.svg",
+   "visible": true
+  },
+  {
+   "name": "head",
+   "svg": "12_head.svg",
+   "visible": true
+  },
+  {
+   "name": "eye_r",
+   "svg": "13_eye_r.svg",
+   "visible": true
+  },
+  {
+   "name": "eye_l",
+   "svg": "14_eye_l.svg",
+   "visible": true
+  },
+  {
+   "name": "eye_r_closed",
+   "svg": "15_eye_r_closed.svg",
+   "visible": false
+  },
+  {
+   "name": "eye_l_closed",
+   "svg": "16_eye_l_closed.svg",
+   "visible": false
+  },
+  {
+   "name": "pupil_r",
+   "svg": "17_pupil_r.svg",
+   "visible": true
+  },
+  {
+   "name": "pupil_l",
+   "svg": "18_pupil_l.svg",
+   "visible": true
+  },
+  {
+   "name": "brow_r",
+   "svg": "19_brow_r.svg",
+   "visible": true
+  },
+  {
+   "name": "brow_l",
+   "svg": "20_brow_l.svg",
+   "visible": true
+  },
+  {
+   "name": "nose",
+   "svg": "21_nose.svg",
+   "visible": true
+  },
+  {
+   "name": "mouth_rest",
+   "svg": "22_mouth_rest.svg",
+   "visible": true
+  },
+  {
+   "name": "mouth_MBP",
+   "svg": "23_mouth_MBP.svg",
+   "visible": false
+  },
+  {
+   "name": "mouth_A",
+   "svg": "24_mouth_A.svg",
+   "visible": false
+  },
+  {
+   "name": "mouth_E",
+   "svg": "25_mouth_E.svg",
+   "visible": false
+  },
+  {
+   "name": "mouth_I",
+   "svg": "26_mouth_I.svg",
+   "visible": false
+  },
+  {
+   "name": "mouth_O",
+   "svg": "27_mouth_O.svg",
+   "visible": false
+  },
+  {
+   "name": "mouth_U",
+   "svg": "28_mouth_U.svg",
+   "visible": false
+  },
+  {
+   "name": "mouth_FV",
+   "svg": "29_mouth_FV.svg",
+   "visible": false
+  },
+  {
+   "name": "mouth_L",
+   "svg": "30_mouth_L.svg",
+   "visible": false
+  },
+  {
+   "name": "hair",
+   "svg": "31_hair.svg",
+   "visible": true
+  },
+  {
+   "name": "upperarm_r",
+   "svg": "32_upperarm_r.svg",
+   "visible": true
+  },
+  {
+   "name": "hand_r",
+   "svg": "33_hand_r.svg",
+   "visible": true
+  },
+  {
+   "name": "forearm_r",
+   "svg": "34_forearm_r.svg",
+   "visible": true
+  },
+  {
+   "name": "upperarm_l",
+   "svg": "35_upperarm_l.svg",
+   "visible": true
+  },
+  {
+   "name": "forearm_l",
+   "svg": "36_forearm_l.svg",
+   "visible": true
+  },
+  {
+   "name": "staff",
+   "svg": "37_staff.svg",
+   "visible": true
+  },
+  {
+   "name": "hand_l",
+   "svg": "38_hand_l.svg",
+   "visible": true
+  }
+ ]
+}
