@@ -18,6 +18,10 @@ Regras obrigatórias para todo roteiro, áudio, imagem e vídeo da série, para 
 ## Tom e formato
 9. Conversa **natural e em ritmo real**, com gírias e sotaque regional de cada personagem, sem falas lentas ou robóticas.
 10. Formato do episódio: **dor → conversa com Jesus → virada → gancho para o próximo episódio**.
+10a. **Continuidade firme entre episódios:** cada episódio continua de verdade o anterior. Os personagens lembram do que aconteceu, as consequências permanecem, e os arcos se cruzam (Lucas conhece Rafa, Dona Lúcia aparece em várias histórias etc.).
+10b. **Recaídas e fragilidade humana:** a mudança não é instantânea. O personagem tenta seguir o que Jesus ensinou, falha, recai, sente vergonha, se afasta, volta. Jesus não desiste dele (Lc 15; Pv 24:16; Rm 7:19). Mostrar sentimentos reais: raiva, medo, desânimo, orgulho, pequenas vitórias.
+10c. **Diálogos naturais:** frases curtas, interrupções, hesitações ("tipo…", "sei lá", "né?"), humor, silêncio e emoção como em uma conversa real. Nada de sermão longo: Jesus pergunta mais do que discursa.
+10d. Manter um registro do estado de cada personagem (onde parou no arco) em `00_docs/continuidade_conversas_com_jesus.md`, atualizado a cada episódio.
 11. Versículos citados corretamente, com referência (ex.: Mt 6:34).
 12. Roupas modernas e comportadas. Estilo 2D de série de TV, com paleta viva e saturada.
 
