@@ -51,3 +51,7 @@ Técnicas gerais da pregação brasileira que conecta com as pessoas. **Nunca** 
 
 ## Créditos
 Sempre informar ao usuário quantos créditos cada etapa gastou e o saldo restante.
+
+## Referência visual oficial
+- Folha do elenco (de frente): https://a.lovart.ai/artifacts/generator/OkRYPRHc1mDrIJEn.png
+- Projeto Lovart: https://www.lovart.ai/canvas?projectId=2v84s7futm9s
