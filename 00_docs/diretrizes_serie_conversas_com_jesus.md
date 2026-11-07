@@ -53,5 +53,7 @@ Técnicas gerais da pregação brasileira que conecta com as pessoas. **Nunca** 
 Sempre informar ao usuário quantos créditos cada etapa gastou e o saldo restante.
 
 ## Referência visual oficial
-- Folha do elenco (de frente): https://a.lovart.ai/artifacts/generator/OkRYPRHc1mDrIJEn.png
+- Folha OFICIAL do elenco (v1, roupas regionais, traço aprovado): https://a.lovart.ai/artifacts/generator/WQy6NrzeqdJjI2ij.png
+- (versões antigas, não usar: OkRYPRHc1mDrIJEn, 02vmHe1CGs7LnyJj, I1wc0zgnZPIxwWPq)
+- Idades: Júlia 17, Camila 22, Bia 23, Diego 26, Lucas 28, Rafa 31, Jesus ~33, Marcos 45, Dona Lúcia 68.
 - Projeto Lovart: https://www.lovart.ai/canvas?projectId=2v84s7futm9s
