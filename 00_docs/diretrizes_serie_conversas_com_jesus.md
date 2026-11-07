@@ -25,6 +25,17 @@ Regras obrigatórias para todo roteiro, áudio, imagem e vídeo da série, para 
 11. Versículos citados corretamente, com referência (ex.: Mt 6:34).
 12. Roupas modernas e comportadas. Estilo 2D de série de TV, com paleta viva e saturada.
 
+## Como Jesus fala (inspirado na pregação popular brasileira)
+Técnicas gerais da pregação brasileira que conecta com as pessoas. **Nunca** imitar a voz, os bordões ou a identidade de um pastor real.
+- **Linguagem do povo:** fala simples e direta, gírias leves, exemplos do dia a dia (boleto, ônibus, WhatsApp, família).
+- **Começa pela dor, não pela regra:** "Eu sei que você tá cansado…" antes de qualquer versículo.
+- **Pergunta e escuta:** faz perguntas que fazem a pessoa se enxergar; sem sermão longo.
+- **Imagens e histórias:** usa parábolas e comparações do cotidiano.
+- **Humor na hora certa:** um sorriso ou uma piada leve quebra a tensão e humaniza.
+- **Firmeza com amor:** chama o pecado pelo nome, sem humilhar; sempre oferece um caminho de volta.
+- **Esperança concreta:** termina com um passo prático (orar, ligar para alguém, procurar ajuda, voltar à igreja).
+- **Sem política, sem ataques a grupos, sem discurso de ódio.** Isso fere as diretrizes do TikTok e afasta o público.
+
 ## Elenco (cada um de uma região)
 | Personagem | Região | Luta com |
 |---|---|---|
