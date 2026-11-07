@@ -18,6 +18,13 @@ Regras obrigatórias para todo roteiro, áudio, imagem e vídeo da série, para 
 ## Tom e formato
 9. Conversa **natural e em ritmo real**, com gírias e sotaque regional de cada personagem, sem falas lentas ou robóticas.
 10. Formato do episódio: **dor → conversa com Jesus → virada → gancho para o próximo episódio**.
+10. **FINAL SEMPRE EM GANCHO (cliffhanger), obrigatório em todo episódio:**
+   - A última cena é um personagem prestes a tomar uma atitude (apertar "enviar", atender o telefone, ver alguém chegando, ligar para alguém) e o desfecho só aparece no próximo episódio.
+   - A última fala é uma pergunta retórica ou uma frase em aberto ("E se ela entender?", "Quem é essa?").
+   - Um narrador fecha com uma pergunta de curiosidade + chamada: "Será que…? Segue o perfil pra ver a parte 2."
+   - Na tela: "CONTINUA NA PARTE X" + a pergunta + "Segue pra não perder".
+   - A emoção do final é sempre quente: tensão, esperança, medo, choque. Nunca um final morno ou resolvido.
+   - Duração alvo: 62 a 75 segundos (acima de 1 minuto para o Programa de Recompensas).
 10a. **Continuidade firme entre episódios:** cada episódio continua de verdade o anterior. Os personagens lembram do que aconteceu, as consequências permanecem, e os arcos se cruzam (Lucas conhece Rafa, Dona Lúcia aparece em várias histórias etc.).
 10b. **Recaídas e fragilidade humana:** a mudança não é instantânea. O personagem tenta seguir o que Jesus ensinou, falha, recai, sente vergonha, se afasta, volta. Jesus não desiste dele (Lc 15; Pv 24:16; Rm 7:19). Mostrar sentimentos reais: raiva, medo, desânimo, orgulho, pequenas vitórias.
 10c. **Diálogos naturais:** frases curtas, interrupções, hesitações ("tipo…", "sei lá", "né?"), humor, silêncio e emoção como em uma conversa real. Nada de sermão longo: Jesus pergunta mais do que discursa.
