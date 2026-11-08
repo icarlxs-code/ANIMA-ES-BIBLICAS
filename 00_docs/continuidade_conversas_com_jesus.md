@@ -16,14 +16,15 @@ Atualizar depois de cada episódio: o que aconteceu, onde cada personagem parou 
 | 9 | Estação das Docas | Camila | Ela atende o Bruno e marca às 18h. Jesus não proíbe: "vá sabendo quem você é". No pôr do sol, o Bruno chega de mãos dadas com outra mulher. | "Quem é essa do seu lado?" / CONTINUA NA PARTE 2 |
 | 10 | Embaixo do viaduto | Lucas + Rafa | Lucas perdeu R$ 1.500 e explode com o Rafa; o Rafa desaba (mulher foi embora, filho tem medo dele). Jesus chega: perderam dinheiro, não tudo; ligar pra pedir perdão, grupo de apoio, bloquear os sites. | Polegar no "ligar" pra Vanessa: "E se ela estiver esperando essa ligação há semanas?" |
 | 11 | Corredor do arroz | Marcos | Crise de pânico no supermercado em Recife. Jesus ensina a respirar, fala de médico e psicólogo; "Eu chorei, Marcos". A esposa Cláudia liga. CVV 188. | "Eu digo o quê pra ela?" / "A verdade." |
+| 12 | Ela respondeu | Bia + Camila | A mãe da Bia respondeu e veio; Bia foi ao CAPS. Num congresso jovem em Belém, Bia conhece a Camila chorando pelo Bruno, conta que buscou ajuda e diz "bloqueia ele". Jesus: "você não é migalha". Camila bloqueia. CVV 188. | Número desconhecido ligando: "Será que é ele?" |
 
 ## Estado dos personagens
 | Personagem | Onde parou | Próximo passo no arco |
 |---|---|---|
 | Lucas (ansiedade) | EP 10: perdeu R$ 1.500; brigou e depois se aproximou do Rafa | Recomeço "um dia de cada vez"; ajudar o Marcos numa crise |
-| Bia (depressão) | EP 8: dedo no "enviar" da mensagem pra mãe | Resposta da mãe; Dona Lúcia; CAPS |
+| Bia (depressão) | EP 12: mãe respondeu, começou no CAPS; virou amiga da Camila | Tratamento com recaídas; Dona Lúcia |
 | Rafa (apostas) | EP 10: prestes a ligar pra Vanessa pedindo perdão | Vanessa atende?; grupo de apoio e autoexclusão |
-| Camila (dependência emocional) | EP 9: viu o Bruno com outra mulher | Reação dela; conhecer a Bia no culto jovem |
+| Camila (dependência emocional) | EP 12: bloqueou o Bruno; número desconhecido ligando | Atender ou não; recaída possível |
 | Diego (pornografia/solidão) | Ainda não apareceu | — |
 | Marcos (pânico) | EP 11: a esposa Cláudia ligando | Contar a verdade ou esconder; tratamento |
 | Júlia (ouve vozes) | Ainda não apareceu | — |
